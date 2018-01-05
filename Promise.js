@@ -1,3 +1,4 @@
+//参考地址：  http://liubin.org/promises-book/
 // 一个简单的promise例子
 // asyncFunction 这个函数会返回promise对象， 对于这个promise
 // 对象，我们调用它的 then 方法来设置resolve后的回调函数， 
